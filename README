@@ -9,12 +9,25 @@ Source:  http://github.com/lyjia/xinput_calibrator
 Bugs:    http://github.com/lyjia/xinput_calibrator/issues
          http://github.com/tias/xinput_calibrator (upstream)
 
-
 Build instructions:
 -------------------
-./autogen.sh --with-gui=x11 (runs configure)
-make (builds binary)
-make dist (builds source tar.gz)
+vim configure.ac                                                    # update version string at AC_INIT line
+./autogen.sh --with-gui=x11                                         # prepares build environment and runs ./configure
+make                                                                # makes binary
+
+Build instructions for making a .deb:
+-------------------------------------
+
+Note that in order to get this project to build I had to make some modifications to src/Makefile.am.
+
+make dist                                                           # builds source .tar.gz
+cd ..                                                               # go to parent folder
+tar -xvf [filename of generated tar.gz]                             # extract the .tar.gz you just built
+cd [folder created by tar]                                          # change into extracted folder
+vim debian/control                                                  # make any changes you need 
+ << edit any files you need to edit, like debian/control (for version string) or debian/changelog >>
+dh_make -f ../[relative path and filename of generated tar.gz]      # debian build step 1
+dpkg-buildpackage -=B -ai386 -uc -us                                # debian build step 2
 
 Usage:
 ------
@@ -27,18 +40,5 @@ The scripts/ directory constains scripts to get calibration from hal or use a po
 
 More about the project:
 -----------------------
-Because all existing calibrators were driver dependent and hard to use, xinput_calibrator was created. The goal of xinput_calibrator is to: 
-* work for any Xorg driver (use Xinput to get axis valuators), 
-* output the calibration as Xorg.conf, HAL policy and udev rule, 
-* support advanced driver options, such as Evdev's dynamic calibration, 
-* have a very intuitive GUI (normal X client). 
+[ removed ]
 
-Xinput_calibrator is based on a simple calibrator that was proposed on the Xorg mailinglist. The first release(v0.2.0) improved upon it by reading axis valuators from Xinput, hence making it generic for all touchscreen drivers. The announcement was done on the Xorg mailinglist, and the code is on Tias' webpage. 
-
-Starting from v0.4.0, it writes Xorg.conf and (HAL) FDI policy file values, and contains a wrapper script to get axis valuator information for the evtouch driver (evtouch does not export the current calibration through its axis valuators). It is also the first program to support dynamic evdev calibration, by using its advanced Xinput functionality.
-
-The v0.5.0 version is written entirely in the X window system, needing no external dependencies. Because of its modular structure, other frontends can be easily created too.
-
-Version v0.6.0 has a proper build system and gained a lot of features thanks to the feedback of different users.
-
-Version 0.7.0 has mis-click detection and proper packaging support: proper make dist, one binary, has manpage, menu entry and icon. DEB and RPM package meta-data in their respective VCS branches.
