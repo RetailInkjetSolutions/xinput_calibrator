@@ -1,0 +1,1286 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/root\/calib\/xinput_calibrator\/missing aclocal-1.14$/;"	m
+ACLOCAL	man/Makefile	/^ACLOCAL = ${SHELL} \/root\/calib\/xinput_calibrator\/missing aclocal-1.14$/;"	m
+ACLOCAL	scripts/Makefile	/^ACLOCAL = ${SHELL} \/root\/calib\/xinput_calibrator\/missing aclocal-1.14$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/root\/calib\/xinput_calibrator\/missing aclocal-1.14$/;"	m
+ACLOCAL	src/calibrator/Makefile	/^ACLOCAL = ${SHELL} \/root\/calib\/xinput_calibrator\/missing aclocal-1.14$/;"	m
+ACLOCAL	src/gui/Makefile	/^ACLOCAL = ${SHELL} \/root\/calib\/xinput_calibrator\/missing aclocal-1.14$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	man/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	scripts/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/calibrator/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ACLOCAL_M4	src/gui/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	man/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	scripts/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/calibrator/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AMTAR	src/gui/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_CXXFLAGS	src/Makefile	/^AM_CXXFLAGS = -Wall -ansi -pedantic$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	man/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	scripts/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	src/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	src/calibrator/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_DEFAULT_VERBOSITY	src/gui/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_RECURSIVE_TARGETS	Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_RECURSIVE_TARGETS	src/Makefile	/^AM_RECURSIVE_TARGETS = $(am__recursive_targets:-recursive=) TAGS CTAGS \\$/;"	m
+AM_V_CXX	src/Makefile	/^AM_V_CXX = $(am__v_CXX_$(V))$/;"	m
+AM_V_CXXLD	src/Makefile	/^AM_V_CXXLD = $(am__v_CXXLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	man/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	scripts/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/calibrator/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_GEN	src/gui/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	man/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	scripts/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	src/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	src/calibrator/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_P	src/gui/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	man/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	scripts/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/calibrator/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_at	src/gui/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AM_V_lt	src/Makefile	/^AM_V_lt = $(am__v_lt_$(V))$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoconf$/;"	m
+AUTOCONF	man/Makefile	/^AUTOCONF = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoconf$/;"	m
+AUTOCONF	scripts/Makefile	/^AUTOCONF = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoconf$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoconf$/;"	m
+AUTOCONF	src/calibrator/Makefile	/^AUTOCONF = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoconf$/;"	m
+AUTOCONF	src/gui/Makefile	/^AUTOCONF = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoheader$/;"	m
+AUTOHEADER	man/Makefile	/^AUTOHEADER = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoheader$/;"	m
+AUTOHEADER	scripts/Makefile	/^AUTOHEADER = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoheader$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoheader$/;"	m
+AUTOHEADER	src/calibrator/Makefile	/^AUTOHEADER = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoheader$/;"	m
+AUTOHEADER	src/gui/Makefile	/^AUTOHEADER = ${SHELL} \/root\/calib\/xinput_calibrator\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/root\/calib\/xinput_calibrator\/missing automake-1.14$/;"	m
+AUTOMAKE	man/Makefile	/^AUTOMAKE = ${SHELL} \/root\/calib\/xinput_calibrator\/missing automake-1.14$/;"	m
+AUTOMAKE	scripts/Makefile	/^AUTOMAKE = ${SHELL} \/root\/calib\/xinput_calibrator\/missing automake-1.14$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/root\/calib\/xinput_calibrator\/missing automake-1.14$/;"	m
+AUTOMAKE	src/calibrator/Makefile	/^AUTOMAKE = ${SHELL} \/root\/calib\/xinput_calibrator\/missing automake-1.14$/;"	m
+AUTOMAKE	src/gui/Makefile	/^AUTOMAKE = ${SHELL} \/root\/calib\/xinput_calibrator\/missing automake-1.14$/;"	m
+AUTOMAKE_OPTIONS	Makefile	/^AUTOMAKE_OPTIONS = foreign$/;"	m
+AWK	Makefile	/^AWK = mawk$/;"	m
+AWK	man/Makefile	/^AWK = mawk$/;"	m
+AWK	scripts/Makefile	/^AWK = mawk$/;"	m
+AWK	src/Makefile	/^AWK = mawk$/;"	m
+AWK	src/calibrator/Makefile	/^AWK = mawk$/;"	m
+AWK	src/gui/Makefile	/^AWK = mawk$/;"	m
+AxisInfo	src/calibrator.hh	/^    AxisInfo() : min(-1), max(-1), invert(false) { }$/;"	f	struct:AxisInfo
+AxisInfo	src/calibrator.hh	/^    AxisInfo(const AxisInfo& old) :$/;"	f	struct:AxisInfo
+AxisInfo	src/calibrator.hh	/^    AxisInfo(int mi, int ma, bool inv = false) :$/;"	f	struct:AxisInfo
+AxisInfo	src/calibrator.hh	/^struct AxisInfo {$/;"	s
+BLACK	src/gui/x11.hpp	/^    enum { BLACK=0, WHITE=1, GRAY=2, DIMGRAY=3, RED=4, NUM_COLORS };$/;"	e	enum:GuiCalibratorX11::__anon3
+CALIBRATOR_EVDEV_HPP	src/calibrator/Evdev.hpp	25;"	d
+CALIBRATOR_EVDEV_TESTER_HPP	src/calibrator/EvdevTester.hpp	24;"	d
+CALIBRATOR_TESTER_HPP	src/calibrator/Tester.hpp	24;"	d
+CALIBRATOR_USBTOUCHSCREEN_HPP	src/calibrator/Usbtouchscreen.hpp	24;"	d
+CALIBRATOR_XORGPRINT_HPP	src/calibrator/XorgPrint.hpp	24;"	d
+CC	Makefile	/^CC = gcc$/;"	m
+CC	man/Makefile	/^CC = gcc$/;"	m
+CC	scripts/Makefile	/^CC = gcc$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CC	src/calibrator/Makefile	/^CC = gcc$/;"	m
+CC	src/gui/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	man/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	scripts/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/calibrator/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCDEPMODE	src/gui/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	man/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	scripts/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/calibrator/Makefile	/^CFLAGS = -g -O2$/;"	m
+CFLAGS	src/gui/Makefile	/^CFLAGS = -g -O2$/;"	m
+COMMON_SRCS	src/Makefile	/^COMMON_SRCS = calibrator.cpp calibrator\/XorgPrint.cpp calibrator\/Evdev.cpp calibrator\/Usbtouchscreen.cpp main_common.cpp gui\/gui_common.cpp$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	man/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	scripts/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/calibrator/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_FILES	src/gui/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	man/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	scripts/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/calibrator/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	src/gui/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPP	man/Makefile	/^CPP = gcc -E$/;"	m
+CPP	scripts/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/calibrator/Makefile	/^CPP = gcc -E$/;"	m
+CPP	src/gui/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	man/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	scripts/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/calibrator/Makefile	/^CPPFLAGS = $/;"	m
+CPPFLAGS	src/gui/Makefile	/^CPPFLAGS = $/;"	m
+CSCOPE	Makefile	/^CSCOPE = cscope$/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CXX	Makefile	/^CXX = g++$/;"	m
+CXX	man/Makefile	/^CXX = g++$/;"	m
+CXX	scripts/Makefile	/^CXX = g++$/;"	m
+CXX	src/Makefile	/^CXX = g++$/;"	m
+CXX	src/calibrator/Makefile	/^CXX = g++$/;"	m
+CXX	src/gui/Makefile	/^CXX = g++$/;"	m
+CXXCOMPILE	src/Makefile	/^CXXCOMPILE = $(CXX) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) \\$/;"	m
+CXXDEPMODE	Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	man/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	scripts/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/calibrator/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXDEPMODE	src/gui/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	man/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	scripts/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/calibrator/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXFLAGS	src/gui/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CXXLD	src/Makefile	/^CXXLD = $(CXX)$/;"	m
+CXXLINK	src/Makefile	/^CXXLINK = $(CXXLD) $(AM_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) $(LDFLAGS) \\$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	man/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	scripts/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/calibrator/Makefile	/^CYGPATH_W = echo$/;"	m
+CYGPATH_W	src/gui/Makefile	/^CYGPATH_W = echo$/;"	m
+CalibrationArea	src/gui/gtkmm.cpp	/^CalibrationArea::CalibrationArea(Calibrator* calibrator0)$/;"	f	class:CalibrationArea
+CalibrationArea	src/gui/gtkmm.hpp	/^class CalibrationArea : public Gtk::DrawingArea$/;"	c
+Calibrator	src/calibrator.cpp	/^Calibrator::Calibrator(const char* const device_name0, const XYinfo& axys0,$/;"	f	class:Calibrator
+Calibrator	src/calibrator.hh	/^class Calibrator$/;"	c
+CalibratorEvdev	src/calibrator/Evdev.cpp	/^CalibratorEvdev::CalibratorEvdev(const char* const device_name0,$/;"	f	class:CalibratorEvdev
+CalibratorEvdev	src/calibrator/Evdev.hpp	/^class CalibratorEvdev: public Calibrator$/;"	c
+CalibratorEvdevTester	src/calibrator/EvdevTester.cpp	/^CalibratorEvdevTester::CalibratorEvdevTester(const char* const device_name0, const XYinfo& axys0, const int thr_misclick, const int thr_doubleclick, const OutputType output_type, const char* geometry)$/;"	f	class:CalibratorEvdevTester
+CalibratorEvdevTester	src/calibrator/EvdevTester.hpp	/^class CalibratorEvdevTester: public CalibratorTesterInterface, public CalibratorEvdev$/;"	c
+CalibratorTester	src/calibrator/Tester.cpp	/^CalibratorTester::CalibratorTester(const char* const device_name0, const XYinfo& axys0, const int thr_misclick, const int thr_doubleclick, const OutputType output_type, const char* geometry)$/;"	f	class:CalibratorTester
+CalibratorTester	src/calibrator/Tester.hpp	/^class CalibratorTester: public CalibratorTesterInterface, public Calibrator$/;"	c
+CalibratorTesterInterface	src/calibrator.hh	/^class CalibratorTesterInterface$/;"	c
+CalibratorUsbtouchscreen	src/calibrator/Usbtouchscreen.cpp	/^CalibratorUsbtouchscreen::CalibratorUsbtouchscreen(const char* const device_name0, const XYinfo& axys0, const int thr_misclick, const int thr_doubleclick, const OutputType output_type, const char* geometry, const bool use_timeout, const char* output_filename)$/;"	f	class:CalibratorUsbtouchscreen
+CalibratorUsbtouchscreen	src/calibrator/Usbtouchscreen.hpp	/^class CalibratorUsbtouchscreen: public Calibrator$/;"	c
+CalibratorXorgPrint	src/calibrator/XorgPrint.cpp	/^CalibratorXorgPrint::CalibratorXorgPrint(const char* const device_name0, const XYinfo& axys0, const int thr_misclick, const int thr_doubleclick, const OutputType output_type, const char* geometry, const bool use_timeout, const char* output_filename)$/;"	f	class:CalibratorXorgPrint
+CalibratorXorgPrint	src/calibrator/XorgPrint.hpp	/^class CalibratorXorgPrint: public Calibrator$/;"	c
+DATA	scripts/Makefile	/^DATA = $(icon_DATA) $(util_DATA)$/;"	m
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES = -I.$/;"	m
+DEFS	Makefile	/^DEFS = -DPACKAGE_NAME=\\"xinput_calibrator\\" -DPACKAGE_TARNAME=\\"xinput_calibrator\\" -DPACKAGE_VERSION=\\"0.7.5\\" -DPACKAGE_STRING=\\"xinput_calibrator\\ 0.7.5\\" -DPACKAGE_BUGREPORT=\\"http:\/\/github.com\/tias\/xinput_calibrator\/issues\\" -DPACKAGE_URL=\\"http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator\\" -DPACKAGE=\\"xinput_calibrator\\" -DVERSION=\\"0.7.5\\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE__BOOL=1 -DHAVE_STDBOOL_H=1 -DHAVE_XI_PROP=1 -DHAVE_X11_XRANDR=1 -DHAVE_TIMERFD=1$/;"	m
+DEFS	man/Makefile	/^DEFS = -DPACKAGE_NAME=\\"xinput_calibrator\\" -DPACKAGE_TARNAME=\\"xinput_calibrator\\" -DPACKAGE_VERSION=\\"0.7.5\\" -DPACKAGE_STRING=\\"xinput_calibrator\\ 0.7.5\\" -DPACKAGE_BUGREPORT=\\"http:\/\/github.com\/tias\/xinput_calibrator\/issues\\" -DPACKAGE_URL=\\"http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator\\" -DPACKAGE=\\"xinput_calibrator\\" -DVERSION=\\"0.7.5\\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE__BOOL=1 -DHAVE_STDBOOL_H=1 -DHAVE_XI_PROP=1 -DHAVE_X11_XRANDR=1 -DHAVE_TIMERFD=1$/;"	m
+DEFS	scripts/Makefile	/^DEFS = -DPACKAGE_NAME=\\"xinput_calibrator\\" -DPACKAGE_TARNAME=\\"xinput_calibrator\\" -DPACKAGE_VERSION=\\"0.7.5\\" -DPACKAGE_STRING=\\"xinput_calibrator\\ 0.7.5\\" -DPACKAGE_BUGREPORT=\\"http:\/\/github.com\/tias\/xinput_calibrator\/issues\\" -DPACKAGE_URL=\\"http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator\\" -DPACKAGE=\\"xinput_calibrator\\" -DVERSION=\\"0.7.5\\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE__BOOL=1 -DHAVE_STDBOOL_H=1 -DHAVE_XI_PROP=1 -DHAVE_X11_XRANDR=1 -DHAVE_TIMERFD=1$/;"	m
+DEFS	src/Makefile	/^DEFS = -DPACKAGE_NAME=\\"xinput_calibrator\\" -DPACKAGE_TARNAME=\\"xinput_calibrator\\" -DPACKAGE_VERSION=\\"0.7.5\\" -DPACKAGE_STRING=\\"xinput_calibrator\\ 0.7.5\\" -DPACKAGE_BUGREPORT=\\"http:\/\/github.com\/tias\/xinput_calibrator\/issues\\" -DPACKAGE_URL=\\"http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator\\" -DPACKAGE=\\"xinput_calibrator\\" -DVERSION=\\"0.7.5\\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE__BOOL=1 -DHAVE_STDBOOL_H=1 -DHAVE_XI_PROP=1 -DHAVE_X11_XRANDR=1 -DHAVE_TIMERFD=1$/;"	m
+DEFS	src/calibrator/Makefile	/^DEFS = -DPACKAGE_NAME=\\"xinput_calibrator\\" -DPACKAGE_TARNAME=\\"xinput_calibrator\\" -DPACKAGE_VERSION=\\"0.7.5\\" -DPACKAGE_STRING=\\"xinput_calibrator\\ 0.7.5\\" -DPACKAGE_BUGREPORT=\\"http:\/\/github.com\/tias\/xinput_calibrator\/issues\\" -DPACKAGE_URL=\\"http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator\\" -DPACKAGE=\\"xinput_calibrator\\" -DVERSION=\\"0.7.5\\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE__BOOL=1 -DHAVE_STDBOOL_H=1 -DHAVE_XI_PROP=1 -DHAVE_X11_XRANDR=1 -DHAVE_TIMERFD=1$/;"	m
+DEFS	src/gui/Makefile	/^DEFS = -DPACKAGE_NAME=\\"xinput_calibrator\\" -DPACKAGE_TARNAME=\\"xinput_calibrator\\" -DPACKAGE_VERSION=\\"0.7.5\\" -DPACKAGE_STRING=\\"xinput_calibrator\\ 0.7.5\\" -DPACKAGE_BUGREPORT=\\"http:\/\/github.com\/tias\/xinput_calibrator\/issues\\" -DPACKAGE_URL=\\"http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator\\" -DPACKAGE=\\"xinput_calibrator\\" -DVERSION=\\"0.7.5\\" -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE__BOOL=1 -DHAVE_STDBOOL_H=1 -DHAVE_XI_PROP=1 -DHAVE_X11_XRANDR=1 -DHAVE_TIMERFD=1$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	man/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	scripts/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/calibrator/Makefile	/^DEPDIR = .deps$/;"	m
+DEPDIR	src/gui/Makefile	/^DEPDIR = .deps$/;"	m
+DIMGRAY	src/gui/x11.hpp	/^    enum { BLACK=0, WHITE=1, GRAY=2, DIMGRAY=3, RED=4, NUM_COLORS };$/;"	e	enum:GuiCalibratorX11::__anon3
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	man/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	scripts/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/calibrator/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DISTFILES	src/gui/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_ARCHIVES	Makefile	/^DIST_ARCHIVES = $(distdir).tar.gz $(distdir).tar.bz2$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	man/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	scripts/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_COMMON	src/calibrator/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am$/;"	m
+DIST_COMMON	src/gui/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	man/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	scripts/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(tester_SOURCES) $(am__xinput_calibrator_SOURCES_DIST)$/;"	m
+DIST_SOURCES	src/calibrator/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SOURCES	src/gui/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_SUBDIRS	src/Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DIST_TARGETS	Makefile	/^DIST_TARGETS = dist-bzip2 dist-gzip$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_C	man/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	scripts/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/calibrator/Makefile	/^ECHO_C = $/;"	m
+ECHO_C	src/gui/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	man/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	scripts/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/calibrator/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_N	src/gui/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+ECHO_T	man/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	scripts/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/calibrator/Makefile	/^ECHO_T = $/;"	m
+ECHO_T	src/gui/Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	man/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	scripts/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/calibrator/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EGREP	src/gui/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXEEXT	man/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	scripts/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/calibrator/Makefile	/^EXEEXT = $/;"	m
+EXEEXT	src/gui/Makefile	/^EXEEXT = $/;"	m
+EXIT_FAILURE	src/calibrator/Evdev.cpp	39;"	d	file:
+EXIT_SUCCESS	src/calibrator/Evdev.cpp	36;"	d	file:
+EXTRA_DIST	Makefile	/^EXTRA_DIST = autogen.sh Changelog$/;"	m
+EXTRA_DIST	scripts/Makefile	/^EXTRA_DIST = \\$/;"	m
+EXTRA_DIST	src/Makefile	/^EXTRA_DIST = \\$/;"	m
+EXTRA_DIST	src/calibrator/Makefile	/^EXTRA_DIST = \\$/;"	m
+EXTRA_DIST	src/gui/Makefile	/^EXTRA_DIST = \\$/;"	m
+GRAY	src/gui/x11.hpp	/^    enum { BLACK=0, WHITE=1, GRAY=2, DIMGRAY=3, RED=4, NUM_COLORS };$/;"	e	enum:GuiCalibratorX11::__anon3
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	man/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	scripts/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/calibrator/Makefile	/^GREP = \/bin\/grep$/;"	m
+GREP	src/gui/Makefile	/^GREP = \/bin\/grep$/;"	m
+GTKMM_CFLAGS	Makefile	/^GTKMM_CFLAGS = $/;"	m
+GTKMM_CFLAGS	man/Makefile	/^GTKMM_CFLAGS = $/;"	m
+GTKMM_CFLAGS	scripts/Makefile	/^GTKMM_CFLAGS = $/;"	m
+GTKMM_CFLAGS	src/Makefile	/^GTKMM_CFLAGS = $/;"	m
+GTKMM_CFLAGS	src/calibrator/Makefile	/^GTKMM_CFLAGS = $/;"	m
+GTKMM_CFLAGS	src/gui/Makefile	/^GTKMM_CFLAGS = $/;"	m
+GTKMM_LIBS	Makefile	/^GTKMM_LIBS = $/;"	m
+GTKMM_LIBS	man/Makefile	/^GTKMM_LIBS = $/;"	m
+GTKMM_LIBS	scripts/Makefile	/^GTKMM_LIBS = $/;"	m
+GTKMM_LIBS	src/Makefile	/^GTKMM_LIBS = $/;"	m
+GTKMM_LIBS	src/calibrator/Makefile	/^GTKMM_LIBS = $/;"	m
+GTKMM_LIBS	src/gui/Makefile	/^GTKMM_LIBS = $/;"	m
+GUI_CALIBRATOR_X11	src/gui/x11.hpp	24;"	d
+GUI_GTKMM_HPP	src/gui/gtkmm.hpp	25;"	d
+GUI_GUI_COMMON_HPP	src/gui/gui_common.hpp	24;"	d
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+GuiCalibratorX11	src/gui/x11.cpp	/^GuiCalibratorX11::GuiCalibratorX11(Calibrator* calibrator0)$/;"	f	class:GuiCalibratorX11
+GuiCalibratorX11	src/gui/x11.hpp	/^class GuiCalibratorX11$/;"	c
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	man/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	scripts/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/calibrator/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL	src/gui/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	man/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	scripts/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/calibrator/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_DATA	src/gui/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	man/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	scripts/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/calibrator/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_HEADER	src/gui/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	man/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	scripts/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/calibrator/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_PROGRAM	src/gui/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	man/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	scripts/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/calibrator/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/gui/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	man/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	scripts/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/calibrator/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTALL_STRIP_PROGRAM	src/gui/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	man/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	scripts/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/calibrator/Makefile	/^LDFLAGS = $/;"	m
+LDFLAGS	src/gui/Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	man/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	scripts/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/calibrator/Makefile	/^LIBOBJS = $/;"	m
+LIBOBJS	src/gui/Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LIBS	man/Makefile	/^LIBS = $/;"	m
+LIBS	scripts/Makefile	/^LIBS = $/;"	m
+LIBS	src/Makefile	/^LIBS = $/;"	m
+LIBS	src/calibrator/Makefile	/^LIBS = $/;"	m
+LIBS	src/gui/Makefile	/^LIBS = $/;"	m
+LL	src/calibrator.hh	/^    LL = 2, \/\/ Lower-left$/;"	e	enum:__anon1
+LR	src/calibrator.hh	/^    LR = 3,  \/\/ Lower-right$/;"	e	enum:__anon1
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	man/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	scripts/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/calibrator/Makefile	/^LTLIBOBJS = $/;"	m
+LTLIBOBJS	src/gui/Makefile	/^LTLIBOBJS = $/;"	m
+MAINT	Makefile	/^MAINT = $/;"	m
+MAINT	man/Makefile	/^MAINT = $/;"	m
+MAINT	scripts/Makefile	/^MAINT = $/;"	m
+MAINT	src/Makefile	/^MAINT = $/;"	m
+MAINT	src/calibrator/Makefile	/^MAINT = $/;"	m
+MAINT	src/gui/Makefile	/^MAINT = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/root\/calib\/xinput_calibrator\/missing makeinfo$/;"	m
+MAKEINFO	man/Makefile	/^MAKEINFO = ${SHELL} \/root\/calib\/xinput_calibrator\/missing makeinfo$/;"	m
+MAKEINFO	scripts/Makefile	/^MAKEINFO = ${SHELL} \/root\/calib\/xinput_calibrator\/missing makeinfo$/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/root\/calib\/xinput_calibrator\/missing makeinfo$/;"	m
+MAKEINFO	src/calibrator/Makefile	/^MAKEINFO = ${SHELL} \/root\/calib\/xinput_calibrator\/missing makeinfo$/;"	m
+MAKEINFO	src/gui/Makefile	/^MAKEINFO = ${SHELL} \/root\/calib\/xinput_calibrator\/missing makeinfo$/;"	m
+MANS	man/Makefile	/^MANS = $(dist_man_MANS)$/;"	m
+MAX_LINE_LEN	src/calibrator.hh	34;"	d
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	man/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	scripts/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/calibrator/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKDIR_P	src/gui/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	man/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	scripts/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/calibrator/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_INSTALL	src/gui/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	man/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	scripts/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/calibrator/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/gui/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NROFF	man/Makefile	/^NROFF = nroff$/;"	m
+NUM_COLORS	src/gui/x11.hpp	/^    enum { BLACK=0, WHITE=1, GRAY=2, DIMGRAY=3, RED=4, NUM_COLORS };$/;"	e	enum:GuiCalibratorX11::__anon3
+NUM_POINTS	src/calibrator.hh	/^    NUM_POINTS$/;"	e	enum:__anon1
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	man/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	scripts/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/calibrator/Makefile	/^OBJEXT = o$/;"	m
+OBJEXT	src/gui/Makefile	/^OBJEXT = o$/;"	m
+OUTYPE_AUTO	src/calibrator.hh	/^    OUTYPE_AUTO,$/;"	e	enum:OutputType
+OUTYPE_HAL	src/calibrator.hh	/^    OUTYPE_HAL,$/;"	e	enum:OutputType
+OUTYPE_XINPUT	src/calibrator.hh	/^    OUTYPE_XINPUT$/;"	e	enum:OutputType
+OUTYPE_XORGCONFD	src/calibrator.hh	/^    OUTYPE_XORGCONFD,$/;"	e	enum:OutputType
+OutputType	src/calibrator.hh	/^enum OutputType {$/;"	g
+PACKAGE	Makefile	/^PACKAGE = xinput_calibrator$/;"	m
+PACKAGE	man/Makefile	/^PACKAGE = xinput_calibrator$/;"	m
+PACKAGE	scripts/Makefile	/^PACKAGE = xinput_calibrator$/;"	m
+PACKAGE	src/Makefile	/^PACKAGE = xinput_calibrator$/;"	m
+PACKAGE	src/calibrator/Makefile	/^PACKAGE = xinput_calibrator$/;"	m
+PACKAGE	src/gui/Makefile	/^PACKAGE = xinput_calibrator$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = http:\/\/github.com\/tias\/xinput_calibrator\/issues$/;"	m
+PACKAGE_BUGREPORT	man/Makefile	/^PACKAGE_BUGREPORT = http:\/\/github.com\/tias\/xinput_calibrator\/issues$/;"	m
+PACKAGE_BUGREPORT	scripts/Makefile	/^PACKAGE_BUGREPORT = http:\/\/github.com\/tias\/xinput_calibrator\/issues$/;"	m
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = http:\/\/github.com\/tias\/xinput_calibrator\/issues$/;"	m
+PACKAGE_BUGREPORT	src/calibrator/Makefile	/^PACKAGE_BUGREPORT = http:\/\/github.com\/tias\/xinput_calibrator\/issues$/;"	m
+PACKAGE_BUGREPORT	src/gui/Makefile	/^PACKAGE_BUGREPORT = http:\/\/github.com\/tias\/xinput_calibrator\/issues$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = xinput_calibrator$/;"	m
+PACKAGE_NAME	man/Makefile	/^PACKAGE_NAME = xinput_calibrator$/;"	m
+PACKAGE_NAME	scripts/Makefile	/^PACKAGE_NAME = xinput_calibrator$/;"	m
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = xinput_calibrator$/;"	m
+PACKAGE_NAME	src/calibrator/Makefile	/^PACKAGE_NAME = xinput_calibrator$/;"	m
+PACKAGE_NAME	src/gui/Makefile	/^PACKAGE_NAME = xinput_calibrator$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = xinput_calibrator 0.7.5$/;"	m
+PACKAGE_STRING	man/Makefile	/^PACKAGE_STRING = xinput_calibrator 0.7.5$/;"	m
+PACKAGE_STRING	scripts/Makefile	/^PACKAGE_STRING = xinput_calibrator 0.7.5$/;"	m
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = xinput_calibrator 0.7.5$/;"	m
+PACKAGE_STRING	src/calibrator/Makefile	/^PACKAGE_STRING = xinput_calibrator 0.7.5$/;"	m
+PACKAGE_STRING	src/gui/Makefile	/^PACKAGE_STRING = xinput_calibrator 0.7.5$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = xinput_calibrator$/;"	m
+PACKAGE_TARNAME	man/Makefile	/^PACKAGE_TARNAME = xinput_calibrator$/;"	m
+PACKAGE_TARNAME	scripts/Makefile	/^PACKAGE_TARNAME = xinput_calibrator$/;"	m
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = xinput_calibrator$/;"	m
+PACKAGE_TARNAME	src/calibrator/Makefile	/^PACKAGE_TARNAME = xinput_calibrator$/;"	m
+PACKAGE_TARNAME	src/gui/Makefile	/^PACKAGE_TARNAME = xinput_calibrator$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator$/;"	m
+PACKAGE_URL	man/Makefile	/^PACKAGE_URL = http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator$/;"	m
+PACKAGE_URL	scripts/Makefile	/^PACKAGE_URL = http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator$/;"	m
+PACKAGE_URL	src/Makefile	/^PACKAGE_URL = http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator$/;"	m
+PACKAGE_URL	src/calibrator/Makefile	/^PACKAGE_URL = http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator$/;"	m
+PACKAGE_URL	src/gui/Makefile	/^PACKAGE_URL = http:\/\/www.freedesktop.org\/wiki\/Software\/xinput_calibrator$/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 0.7.5$/;"	m
+PACKAGE_VERSION	man/Makefile	/^PACKAGE_VERSION = 0.7.5$/;"	m
+PACKAGE_VERSION	scripts/Makefile	/^PACKAGE_VERSION = 0.7.5$/;"	m
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = 0.7.5$/;"	m
+PACKAGE_VERSION	src/calibrator/Makefile	/^PACKAGE_VERSION = 0.7.5$/;"	m
+PACKAGE_VERSION	src/gui/Makefile	/^PACKAGE_VERSION = 0.7.5$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	man/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	scripts/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/calibrator/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PATH_SEPARATOR	src/gui/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	man/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	scripts/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	src/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	src/calibrator/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG	src/gui/Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG_LIBDIR	Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	man/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	scripts/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	src/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	src/calibrator/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_LIBDIR	src/gui/Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_PATH	Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	man/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	scripts/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	src/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	src/calibrator/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+PKG_CONFIG_PATH	src/gui/Makefile	/^PKG_CONFIG_PATH = $/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	man/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	scripts/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/calibrator/Makefile	/^POST_INSTALL = :$/;"	m
+POST_INSTALL	src/gui/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	man/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	scripts/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/calibrator/Makefile	/^POST_UNINSTALL = :$/;"	m
+POST_UNINSTALL	src/gui/Makefile	/^POST_UNINSTALL = :$/;"	m
+POW_LIB	Makefile	/^POW_LIB = $/;"	m
+POW_LIB	man/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	scripts/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	src/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	src/calibrator/Makefile	/^POW_LIB = $/;"	m
+POW_LIB	src/gui/Makefile	/^POW_LIB = $/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	man/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	scripts/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/calibrator/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_INSTALL	src/gui/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	man/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	scripts/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/calibrator/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	src/gui/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+RECURSIVE_CLEAN_TARGETS	Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_CLEAN_TARGETS	src/Makefile	/^RECURSIVE_CLEAN_TARGETS = mostlyclean-recursive clean-recursive	\\$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+RECURSIVE_TARGETS	src/Makefile	/^RECURSIVE_TARGETS = all-recursive check-recursive cscopelist-recursive \\$/;"	m
+RED	src/gui/x11.hpp	/^    enum { BLACK=0, WHITE=1, GRAY=2, DIMGRAY=3, RED=4, NUM_COLORS };$/;"	e	enum:GuiCalibratorX11::__anon3
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	man/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	scripts/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/calibrator/Makefile	/^SET_MAKE = $/;"	m
+SET_MAKE	src/gui/Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	man/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	scripts/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/calibrator/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SHELL	src/gui/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOURCES	Makefile	/^SOURCES =$/;"	m
+SOURCES	man/Makefile	/^SOURCES =$/;"	m
+SOURCES	scripts/Makefile	/^SOURCES =$/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(tester_SOURCES) $(xinput_calibrator_SOURCES)$/;"	m
+SOURCES	src/calibrator/Makefile	/^SOURCES =$/;"	m
+SOURCES	src/gui/Makefile	/^SOURCES =$/;"	m
+STRIP	Makefile	/^STRIP = $/;"	m
+STRIP	man/Makefile	/^STRIP = $/;"	m
+STRIP	scripts/Makefile	/^STRIP = $/;"	m
+STRIP	src/Makefile	/^STRIP = $/;"	m
+STRIP	src/calibrator/Makefile	/^STRIP = $/;"	m
+STRIP	src/gui/Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = src man scripts$/;"	m
+SUBDIRS	src/Makefile	/^SUBDIRS = \\$/;"	m
+SYSFS_DEVNAME	src/calibrator.cpp	/^const char* Calibrator::SYSFS_DEVNAME="device\/name";$/;"	m	class:Calibrator	file:
+SYSFS_DEVNAME	src/calibrator.hh	/^    static const char* SYSFS_DEVNAME;$/;"	m	class:Calibrator
+SYSFS_INPUT	src/calibrator.cpp	/^const char* Calibrator::SYSFS_INPUT="\/sys\/class\/input";$/;"	m	class:Calibrator	file:
+SYSFS_INPUT	src/calibrator.hh	/^    static const char* SYSFS_INPUT;$/;"	m	class:Calibrator
+UL	src/calibrator.hh	/^    UL = 0, \/\/ Upper-left$/;"	e	enum:__anon1
+UR	src/calibrator.hh	/^    UR = 1, \/\/ Upper-right$/;"	e	enum:__anon1
+VERSION	Makefile	/^VERSION = 0.7.5$/;"	m
+VERSION	man/Makefile	/^VERSION = 0.7.5$/;"	m
+VERSION	scripts/Makefile	/^VERSION = 0.7.5$/;"	m
+VERSION	src/Makefile	/^VERSION = 0.7.5$/;"	m
+VERSION	src/calibrator/Makefile	/^VERSION = 0.7.5$/;"	m
+VERSION	src/gui/Makefile	/^VERSION = 0.7.5$/;"	m
+WHITE	src/gui/x11.hpp	/^    enum { BLACK=0, WHITE=1, GRAY=2, DIMGRAY=3, RED=4, NUM_COLORS };$/;"	e	enum:GuiCalibratorX11::__anon3
+WrongCalibratorException	src/calibrator.hh	/^        WrongCalibratorException(const std::string& msg = "") :$/;"	f	class:WrongCalibratorException
+WrongCalibratorException	src/calibrator.hh	/^class WrongCalibratorException : public std::invalid_argument {$/;"	c
+X	src/gui/gtkmm.hpp	/^    double X[4], Y[4];$/;"	m	class:CalibrationArea
+X	src/gui/x11.hpp	/^    double X[NUM_POINTS], Y[NUM_POINTS];$/;"	m	class:GuiCalibratorX11
+X11_CFLAGS	Makefile	/^X11_CFLAGS = $/;"	m
+X11_CFLAGS	man/Makefile	/^X11_CFLAGS = $/;"	m
+X11_CFLAGS	scripts/Makefile	/^X11_CFLAGS = $/;"	m
+X11_CFLAGS	src/Makefile	/^X11_CFLAGS = $/;"	m
+X11_CFLAGS	src/calibrator/Makefile	/^X11_CFLAGS = $/;"	m
+X11_CFLAGS	src/gui/Makefile	/^X11_CFLAGS = $/;"	m
+X11_LIBS	Makefile	/^X11_LIBS = -lX11 $/;"	m
+X11_LIBS	man/Makefile	/^X11_LIBS = -lX11 $/;"	m
+X11_LIBS	scripts/Makefile	/^X11_LIBS = -lX11 $/;"	m
+X11_LIBS	src/Makefile	/^X11_LIBS = -lX11 $/;"	m
+X11_LIBS	src/calibrator/Makefile	/^X11_LIBS = -lX11 $/;"	m
+X11_LIBS	src/gui/Makefile	/^X11_LIBS = -lX11 $/;"	m
+XINPUT_CFLAGS	Makefile	/^XINPUT_CFLAGS = $/;"	m
+XINPUT_CFLAGS	man/Makefile	/^XINPUT_CFLAGS = $/;"	m
+XINPUT_CFLAGS	scripts/Makefile	/^XINPUT_CFLAGS = $/;"	m
+XINPUT_CFLAGS	src/Makefile	/^XINPUT_CFLAGS = $/;"	m
+XINPUT_CFLAGS	src/calibrator/Makefile	/^XINPUT_CFLAGS = $/;"	m
+XINPUT_CFLAGS	src/gui/Makefile	/^XINPUT_CFLAGS = $/;"	m
+XINPUT_LIBS	Makefile	/^XINPUT_LIBS = -lX11 -lXext -lXi $/;"	m
+XINPUT_LIBS	man/Makefile	/^XINPUT_LIBS = -lX11 -lXext -lXi $/;"	m
+XINPUT_LIBS	scripts/Makefile	/^XINPUT_LIBS = -lX11 -lXext -lXi $/;"	m
+XINPUT_LIBS	src/Makefile	/^XINPUT_LIBS = -lX11 -lXext -lXi $/;"	m
+XINPUT_LIBS	src/calibrator/Makefile	/^XINPUT_LIBS = -lX11 -lXext -lXi $/;"	m
+XINPUT_LIBS	src/gui/Makefile	/^XINPUT_LIBS = -lX11 -lXext -lXi $/;"	m
+XI_PROP_CFLAGS	Makefile	/^XI_PROP_CFLAGS = $/;"	m
+XI_PROP_CFLAGS	man/Makefile	/^XI_PROP_CFLAGS = $/;"	m
+XI_PROP_CFLAGS	scripts/Makefile	/^XI_PROP_CFLAGS = $/;"	m
+XI_PROP_CFLAGS	src/Makefile	/^XI_PROP_CFLAGS = $/;"	m
+XI_PROP_CFLAGS	src/calibrator/Makefile	/^XI_PROP_CFLAGS = $/;"	m
+XI_PROP_CFLAGS	src/gui/Makefile	/^XI_PROP_CFLAGS = $/;"	m
+XI_PROP_LIBS	Makefile	/^XI_PROP_LIBS = -lXi $/;"	m
+XI_PROP_LIBS	man/Makefile	/^XI_PROP_LIBS = -lXi $/;"	m
+XI_PROP_LIBS	scripts/Makefile	/^XI_PROP_LIBS = -lXi $/;"	m
+XI_PROP_LIBS	src/Makefile	/^XI_PROP_LIBS = -lXi $/;"	m
+XI_PROP_LIBS	src/calibrator/Makefile	/^XI_PROP_LIBS = -lXi $/;"	m
+XI_PROP_LIBS	src/gui/Makefile	/^XI_PROP_LIBS = -lXi $/;"	m
+XMKMF	Makefile	/^XMKMF = $/;"	m
+XMKMF	man/Makefile	/^XMKMF = $/;"	m
+XMKMF	scripts/Makefile	/^XMKMF = $/;"	m
+XMKMF	src/Makefile	/^XMKMF = $/;"	m
+XMKMF	src/calibrator/Makefile	/^XMKMF = $/;"	m
+XMKMF	src/gui/Makefile	/^XMKMF = $/;"	m
+XRANDR_CFLAGS	Makefile	/^XRANDR_CFLAGS = $/;"	m
+XRANDR_CFLAGS	man/Makefile	/^XRANDR_CFLAGS = $/;"	m
+XRANDR_CFLAGS	scripts/Makefile	/^XRANDR_CFLAGS = $/;"	m
+XRANDR_CFLAGS	src/Makefile	/^XRANDR_CFLAGS = $/;"	m
+XRANDR_CFLAGS	src/calibrator/Makefile	/^XRANDR_CFLAGS = $/;"	m
+XRANDR_CFLAGS	src/gui/Makefile	/^XRANDR_CFLAGS = $/;"	m
+XRANDR_LIBS	Makefile	/^XRANDR_LIBS = -lXrandr $/;"	m
+XRANDR_LIBS	man/Makefile	/^XRANDR_LIBS = -lXrandr $/;"	m
+XRANDR_LIBS	scripts/Makefile	/^XRANDR_LIBS = -lXrandr $/;"	m
+XRANDR_LIBS	src/Makefile	/^XRANDR_LIBS = -lXrandr $/;"	m
+XRANDR_LIBS	src/calibrator/Makefile	/^XRANDR_LIBS = -lXrandr $/;"	m
+XRANDR_LIBS	src/gui/Makefile	/^XRANDR_LIBS = -lXrandr $/;"	m
+XYinfo	src/calibrator.hh	/^    XYinfo() : swap_xy(false) {}$/;"	f	struct:XYinfo
+XYinfo	src/calibrator.hh	/^    XYinfo(const XYinfo& old) :$/;"	f	struct:XYinfo
+XYinfo	src/calibrator.hh	/^    XYinfo(int xmi, int xma, int ymi, int yma, bool swap_xy_ = false,$/;"	f	struct:XYinfo
+XYinfo	src/calibrator.hh	/^struct XYinfo {$/;"	s
+XrmInitialize	configure	/^XrmInitialize ()$/;"	f
+Y	src/gui/gtkmm.hpp	/^    double X[4], Y[4];$/;"	m	class:CalibrationArea
+Y	src/gui/x11.hpp	/^    double X[NUM_POINTS], Y[NUM_POINTS];$/;"	m	class:GuiCalibratorX11
+_calibrator_hh	src/calibrator.hh	26;"	d
+abs_builddir	Makefile	/^abs_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_builddir	man/Makefile	/^abs_builddir = \/root\/calib\/xinput_calibrator\/man$/;"	m
+abs_builddir	scripts/Makefile	/^abs_builddir = \/root\/calib\/xinput_calibrator\/scripts$/;"	m
+abs_builddir	src/Makefile	/^abs_builddir = \/root\/calib\/xinput_calibrator\/src$/;"	m
+abs_builddir	src/calibrator/Makefile	/^abs_builddir = \/root\/calib\/xinput_calibrator\/src\/calibrator$/;"	m
+abs_builddir	src/gui/Makefile	/^abs_builddir = \/root\/calib\/xinput_calibrator\/src\/gui$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_srcdir	man/Makefile	/^abs_srcdir = \/root\/calib\/xinput_calibrator\/man$/;"	m
+abs_srcdir	scripts/Makefile	/^abs_srcdir = \/root\/calib\/xinput_calibrator\/scripts$/;"	m
+abs_srcdir	src/Makefile	/^abs_srcdir = \/root\/calib\/xinput_calibrator\/src$/;"	m
+abs_srcdir	src/calibrator/Makefile	/^abs_srcdir = \/root\/calib\/xinput_calibrator\/src\/calibrator$/;"	m
+abs_srcdir	src/gui/Makefile	/^abs_srcdir = \/root\/calib\/xinput_calibrator\/src\/gui$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_builddir	man/Makefile	/^abs_top_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_builddir	scripts/Makefile	/^abs_top_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_builddir	src/Makefile	/^abs_top_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_builddir	src/calibrator/Makefile	/^abs_top_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_builddir	src/gui/Makefile	/^abs_top_builddir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_srcdir	man/Makefile	/^abs_top_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_srcdir	scripts/Makefile	/^abs_top_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_srcdir	src/Makefile	/^abs_top_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_srcdir	src/calibrator/Makefile	/^abs_top_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+abs_top_srcdir	src/gui/Makefile	/^abs_top_srcdir = \/root\/calib\/xinput_calibrator$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	man/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	scripts/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/calibrator/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CC	src/gui/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	man/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	scripts/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/calibrator/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_CXX	src/gui/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_fn_c_check_func	configure	/^ac_fn_c_check_func ()$/;"	f
+ac_fn_c_check_header_compile	configure	/^ac_fn_c_check_header_compile ()$/;"	f
+ac_fn_c_check_header_mongrel	configure	/^ac_fn_c_check_header_mongrel ()$/;"	f
+ac_fn_c_check_type	configure	/^ac_fn_c_check_type ()$/;"	f
+ac_fn_c_try_compile	configure	/^ac_fn_c_try_compile ()$/;"	f
+ac_fn_c_try_cpp	configure	/^ac_fn_c_try_cpp ()$/;"	f
+ac_fn_c_try_link	configure	/^ac_fn_c_try_link ()$/;"	f
+ac_fn_c_try_run	configure	/^ac_fn_c_try_run ()$/;"	f
+ac_fn_cxx_try_compile	configure	/^ac_fn_cxx_try_compile ()$/;"	f
+add_click	src/calibrator.cpp	/^bool Calibrator::add_click(int x, int y)$/;"	f	class:Calibrator
+add_click	src/calibrator/EvdevTester.hpp	/^    virtual bool add_click(int x, int y) {$/;"	f	class:CalibratorEvdevTester
+add_click	src/calibrator/Tester.hpp	/^    virtual bool add_click(int x, int y) {$/;"	f	class:CalibratorTester
+aix_post_process_depfile	depcomp	/^aix_post_process_depfile ()$/;"	f
+along_axis	src/calibrator.cpp	/^inline bool Calibrator::along_axis(int xy, int x0, int y0)$/;"	f	class:Calibrator
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__DEPENDENCIES_1	src/Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	man/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	scripts/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/calibrator/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__aclocal_m4_deps	src/gui/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__base_list	man/Makefile	/^am__base_list = \\$/;"	m
+am__base_list	scripts/Makefile	/^am__base_list = \\$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	man/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	scripts/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/calibrator/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__can_run_installinfo	src/gui/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	man/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	scripts/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/calibrator/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__cd	src/gui/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	man/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	scripts/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/calibrator/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__configure_deps	src/gui/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__define_uniq_tagged_files	src/Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__depfiles_maybe	src/Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__distuninstallcheck_listfiles	Makefile	/^am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \\$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__include	man/Makefile	/^am__include = include$/;"	m
+am__include	scripts/Makefile	/^am__include = include$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__include	src/calibrator/Makefile	/^am__include = include$/;"	m
+am__include	src/gui/Makefile	/^am__include = include$/;"	m
+am__install_max	man/Makefile	/^am__install_max = 40$/;"	m
+am__install_max	scripts/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	man/Makefile	/^am__installdirs = "$(DESTDIR)$(man1dir)"$/;"	m
+am__installdirs	scripts/Makefile	/^am__installdirs = "$(DESTDIR)$(icondir)" "$(DESTDIR)$(utildir)"$/;"	m
+am__installdirs	src/Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+am__is_gnu_make	Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	man/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	scripts/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	src/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	src/calibrator/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__is_gnu_make	src/gui/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	man/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	scripts/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/calibrator/Makefile	/^am__leading_dot = .$/;"	m
+am__leading_dot	src/gui/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	man/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	scripts/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	src/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	src/calibrator/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_dryrun	src/gui/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	man/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	scripts/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	src/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	src/calibrator/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	src/gui/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	man/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	scripts/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	src/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	src/calibrator/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_running_with_option	src/gui/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__mv	src/Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	man/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_list	scripts/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	man/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip	scripts/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	man/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__nobase_strip_setup	scripts/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__objects_1	src/Makefile	/^am__objects_1 = xinput_calibrator-calibrator.$(OBJEXT) \\$/;"	m
+am__post_remove_distdir	Makefile	/^am__post_remove_distdir = $(am__remove_distdir)$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__quote	man/Makefile	/^am__quote = $/;"	m
+am__quote	scripts/Makefile	/^am__quote = $/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am__quote	src/calibrator/Makefile	/^am__quote = $/;"	m
+am__quote	src/gui/Makefile	/^am__quote = $/;"	m
+am__recursive_targets	Makefile	/^am__recursive_targets = \\$/;"	m
+am__recursive_targets	src/Makefile	/^am__recursive_targets = \\$/;"	m
+am__relativize	Makefile	/^am__relativize = \\$/;"	m
+am__relativize	src/Makefile	/^am__relativize = \\$/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+am__strip_dir	man/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__strip_dir	scripts/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	man/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	scripts/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	src/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	src/calibrator/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tagged_files	src/gui/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	man/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	scripts/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/calibrator/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__tar	src/gui/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uninstall_files_from_dir	man/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uninstall_files_from_dir	scripts/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__uniquify_input	src/Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	man/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	scripts/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/calibrator/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__untar	src/gui/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_CXXLD_	src/Makefile	/^am__v_CXXLD_ = $(am__v_CXXLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CXXLD_0	src/Makefile	/^am__v_CXXLD_0 = @echo "  CXXLD   " $@;$/;"	m
+am__v_CXXLD_1	src/Makefile	/^am__v_CXXLD_1 = $/;"	m
+am__v_CXX_	src/Makefile	/^am__v_CXX_ = $(am__v_CXX_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CXX_0	src/Makefile	/^am__v_CXX_0 = @echo "  CXX     " $@;$/;"	m
+am__v_CXX_1	src/Makefile	/^am__v_CXX_1 = $/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	man/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	scripts/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/calibrator/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_	src/gui/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	man/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	scripts/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	src/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	src/calibrator/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_0	src/gui/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	man/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	scripts/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	src/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	src/calibrator/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_GEN_1	src/gui/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	man/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	scripts/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	src/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	src/calibrator/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_	src/gui/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	man/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	scripts/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	src/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	src/calibrator/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_0	src/gui/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	man/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	scripts/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	src/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	src/calibrator/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_P_1	src/gui/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	man/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	scripts/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/calibrator/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_	src/gui/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	man/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	scripts/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/calibrator/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_0	src/gui/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	man/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	scripts/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	src/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	src/calibrator/Makefile	/^am__v_at_1 = $/;"	m
+am__v_at_1	src/gui/Makefile	/^am__v_at_1 = $/;"	m
+am__v_lt_	src/Makefile	/^am__v_lt_ = $(am__v_lt_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_lt_0	src/Makefile	/^am__v_lt_0 = --silent$/;"	m
+am__v_lt_1	src/Makefile	/^am__v_lt_1 = $/;"	m
+am__vpath_adj	man/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj	scripts/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	man/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__vpath_adj_setup	scripts/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am__xinput_calibrator_SOURCES_DIST	src/Makefile	/^am__xinput_calibrator_SOURCES_DIST = gui\/gtkmm.cpp main_gtkmm.cpp \\$/;"	m
+am_tester_OBJECTS	src/Makefile	/^am_tester_OBJECTS = tester-tester.$(OBJEXT) \\$/;"	m
+am_xinput_calibrator_OBJECTS	src/Makefile	/^am_xinput_calibrator_OBJECTS = xinput_calibrator-x11.$(OBJEXT) \\$/;"	m
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_append	configure	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_arith	configure	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_error	configure	/^as_fn_error ()$/;"	f
+as_fn_executable_p	config.status	/^as_fn_executable_p ()$/;"	f
+as_fn_executable_p	configure	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_exit	configure	/^as_fn_exit ()$/;"	f
+as_fn_failure	configure	/^as_fn_failure () { as_fn_return 1; }$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_mkdir_p	configure	/^as_fn_mkdir_p ()$/;"	f
+as_fn_ret_failure	configure	/^as_fn_ret_failure () { return 1; }$/;"	f
+as_fn_ret_success	configure	/^as_fn_ret_success () { return 0; }$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_set_status	configure	/^as_fn_set_status ()$/;"	f
+as_fn_success	configure	/^as_fn_success () { as_fn_return 0; }$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+as_fn_unset	configure	/^as_fn_unset ()$/;"	f
+bin_PROGRAMS	src/Makefile	/^bin_PROGRAMS = xinput_calibrator$(EXEEXT) tester$(EXEEXT)$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	man/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	scripts/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/calibrator/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bindir	src/gui/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_alias	man/Makefile	/^build_alias = $/;"	m
+build_alias	scripts/Makefile	/^build_alias = $/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_alias	src/calibrator/Makefile	/^build_alias = $/;"	m
+build_alias	src/gui/Makefile	/^build_alias = $/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+builddir	man/Makefile	/^builddir = .$/;"	m
+builddir	scripts/Makefile	/^builddir = .$/;"	m
+builddir	src/Makefile	/^builddir = .$/;"	m
+builddir	src/calibrator/Makefile	/^builddir = .$/;"	m
+builddir	src/gui/Makefile	/^builddir = .$/;"	m
+calibrator	src/gui/gtkmm.hpp	/^    Calibrator* calibrator;$/;"	m	class:CalibrationArea
+calibrator	src/gui/x11.hpp	/^    Calibrator* calibrator;$/;"	m	class:GuiCalibratorX11
+clicked	src/calibrator.hh	/^    } clicked;$/;"	m	class:Calibrator	typeref:struct:Calibrator::__anon2
+clock_line_width	src/gui/gui_common.hpp	/^const int clock_line_width = 10;$/;"	v
+clock_radius	src/gui/gui_common.hpp	/^const int clock_radius = 50;$/;"	v
+colors	src/gui/x11.cpp	/^const char* GuiCalibratorX11::colors[GuiCalibratorX11::NUM_COLORS] = {"BLACK", "WHITE", "GRAY", "DIMGRAY", "RED"};$/;"	m	class:GuiCalibratorX11	file:
+colors	src/gui/x11.hpp	/^    static const char* colors[NUM_COLORS];$/;"	m	class:GuiCalibratorX11
+cross_circle	src/gui/gui_common.hpp	/^const int cross_circle = 4;$/;"	v
+cross_lines	src/gui/gui_common.hpp	/^const int cross_lines = 25;$/;"	v
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	man/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	scripts/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/calibrator/Makefile	/^datadir = ${datarootdir}$/;"	m
+datadir	src/gui/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	man/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	scripts/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/calibrator/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datarootdir	src/gui/Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+depcomp	src/Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+detect_display_size	src/gui/x11.cpp	/^void  GuiCalibratorX11::detect_display_size( int &width, int &height) {$/;"	f	class:GuiCalibratorX11
+dev	src/calibrator/Evdev.hpp	/^    XDevice     *dev;$/;"	m	class:CalibratorEvdev
+devInfo	src/calibrator/Evdev.hpp	/^    XDeviceInfo *devInfo;$/;"	m	class:CalibratorEvdev
+device_name	src/calibrator.hh	/^    const char* const device_name;$/;"	m	class:Calibrator
+display	src/calibrator/Evdev.hpp	/^    Display     *display;$/;"	m	class:CalibratorEvdev
+display	src/gui/x11.hpp	/^    Display* display;$/;"	m	class:GuiCalibratorX11
+display_height	src/gui/gtkmm.hpp	/^    int display_width, display_height;$/;"	m	class:CalibrationArea
+display_height	src/gui/x11.hpp	/^    int display_width, display_height;$/;"	m	class:GuiCalibratorX11
+display_texts	src/gui/gtkmm.hpp	/^    std::list<std::string> display_texts;$/;"	m	class:CalibrationArea
+display_texts	src/gui/x11.hpp	/^    std::list<std::string> display_texts;$/;"	m	class:GuiCalibratorX11
+display_width	src/gui/gtkmm.hpp	/^    int display_width, display_height;$/;"	m	class:CalibrationArea
+display_width	src/gui/x11.hpp	/^    int display_width, display_height;$/;"	m	class:GuiCalibratorX11
+dist_man_MANS	man/Makefile	/^dist_man_MANS = xinput_calibrator.1$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+do_invert	src/calibrator.hh	/^    void do_invert() {$/;"	f	struct:AxisInfo
+do_xf86ScaleAxis	src/calibrator.hh	/^    void do_xf86ScaleAxis(const XYinfo& to, const XYinfo& from) {$/;"	f	struct:XYinfo
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	man/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	scripts/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/calibrator/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+docdir	src/gui/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+draw_message	src/gui/gtkmm.cpp	/^void CalibrationArea::draw_message(const char* msg)$/;"	f	class:CalibrationArea
+draw_message	src/gui/x11.cpp	/^void GuiCalibratorX11::draw_message(const char* msg)$/;"	f	class:GuiCalibratorX11
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	man/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	scripts/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/calibrator/Makefile	/^dvidir = ${docdir}$/;"	m
+dvidir	src/gui/Makefile	/^dvidir = ${docdir}$/;"	m
+emulate_driver	src/calibrator/EvdevTester.cpp	/^XYinfo CalibratorEvdevTester::emulate_driver(const XYinfo& raw, bool useNewAxis, const XYinfo& screen, const XYinfo& device) {$/;"	f	class:CalibratorEvdevTester
+emulate_driver	src/calibrator/Tester.cpp	/^XYinfo CalibratorTester::emulate_driver(const XYinfo& raw, bool useNewAxis, const XYinfo& screen, const XYinfo& device) {$/;"	f	class:CalibratorTester
+evdev_270_processvaluator	src/calibrator/EvdevTester.cpp	/^void CalibratorEvdevTester::evdev_270_processvaluator(const XYinfo& devAxis, const XYinfo& axis, int* vals)$/;"	f	class:CalibratorEvdevTester
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	man/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	scripts/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/calibrator/Makefile	/^exec_prefix = ${prefix}$/;"	m
+exec_prefix	src/gui/Makefile	/^exec_prefix = ${prefix}$/;"	m
+find_device	src/main_common.cpp	/^int Calibrator::find_device(const char* pre_device, bool list_devices,$/;"	f	class:Calibrator
+finish	src/calibrator.cpp	/^bool Calibrator::finish(int width, int height)$/;"	f	class:Calibrator
+finish	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::finish(int width, int height)$/;"	f	class:CalibratorEvdev
+finish	src/calibrator/EvdevTester.hpp	/^    virtual bool finish(int width, int height) {$/;"	f	class:CalibratorEvdevTester
+finish	src/calibrator/Tester.hpp	/^    virtual bool finish(int width, int height) {$/;"	f	class:CalibratorTester
+finish_data	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::finish_data(const XYinfo &new_axys)$/;"	f	class:CalibratorEvdev
+finish_data	src/calibrator/EvdevTester.cpp	/^bool CalibratorEvdevTester::finish_data(const XYinfo &axis)$/;"	f	class:CalibratorEvdevTester
+finish_data	src/calibrator/Tester.cpp	/^bool CalibratorTester::finish_data(const XYinfo &axis)$/;"	f	class:CalibratorTester
+finish_data	src/calibrator/Usbtouchscreen.cpp	/^bool CalibratorUsbtouchscreen::finish_data(const XYinfo &new_axys)$/;"	f	class:CalibratorUsbtouchscreen
+finish_data	src/calibrator/XorgPrint.cpp	/^bool CalibratorXorgPrint::finish_data(const XYinfo &new_axys)$/;"	f	class:CalibratorXorgPrint
+font_info	src/gui/x11.hpp	/^    XFontStruct* font_info;$/;"	m	class:GuiCalibratorX11
+font_size	src/gui/gui_common.hpp	/^const int font_size = 16;$/;"	v
+func_cl_dashL	compile	/^func_cl_dashL ()$/;"	f
+func_cl_dashl	compile	/^func_cl_dashl ()$/;"	f
+func_cl_wrapper	compile	/^func_cl_wrapper ()$/;"	f
+func_file_conv	compile	/^func_file_conv ()$/;"	f
+gc	src/gui/x11.hpp	/^    GC gc;$/;"	m	class:GuiCalibratorX11
+geometry	src/calibrator.hh	/^    const char* geometry;$/;"	m	class:Calibrator
+get_display_texts	src/gui/gui_common.cpp	/^void get_display_texts(std::list<std::string> *texts, Calibrator *calibrator)$/;"	f
+get_geometry	src/calibrator.hh	/^    const char* get_geometry() const$/;"	f	class:Calibrator
+get_numclicks	src/calibrator.hh	/^    int get_numclicks() const$/;"	f	class:Calibrator
+get_output_filename	src/calibrator.hh	/^    const char* get_output_filename() const$/;"	f	class:Calibrator
+get_sysfs_name	src/calibrator.cpp	/^const char* Calibrator::get_sysfs_name()$/;"	f	class:Calibrator
+get_use_timeout	src/calibrator.hh	/^    const bool get_use_timeout() const$/;"	f	class:Calibrator
+give_advice	missing	/^give_advice ()$/;"	f
+give_timer_signal	src/gui/x11.cpp	/^void GuiCalibratorX11::give_timer_signal()$/;"	f	class:GuiCalibratorX11
+has_xorgconfd_support	src/calibrator.cpp	/^bool Calibrator::has_xorgconfd_support(Display* dpy) {$/;"	f	class:Calibrator
+host_alias	Makefile	/^host_alias = $/;"	m
+host_alias	man/Makefile	/^host_alias = $/;"	m
+host_alias	scripts/Makefile	/^host_alias = $/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_alias	src/calibrator/Makefile	/^host_alias = $/;"	m
+host_alias	src/gui/Makefile	/^host_alias = $/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	man/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	scripts/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/calibrator/Makefile	/^htmldir = ${docdir}$/;"	m
+htmldir	src/gui/Makefile	/^htmldir = ${docdir}$/;"	m
+icon_DATA	scripts/Makefile	/^icon_DATA = xinput_calibrator.svg xinput_calibrator.xpm$/;"	m
+icondir	scripts/Makefile	/^icondir = $(datadir)\/pixmaps$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	man/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	scripts/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/calibrator/Makefile	/^includedir = ${prefix}\/include$/;"	m
+includedir	src/gui/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	man/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	scripts/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/calibrator/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+infodir	src/gui/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/root\/calib\/xinput_calibrator\/install-sh$/;"	m
+install_sh	man/Makefile	/^install_sh = ${SHELL} \/root\/calib\/xinput_calibrator\/install-sh$/;"	m
+install_sh	scripts/Makefile	/^install_sh = ${SHELL} \/root\/calib\/xinput_calibrator\/install-sh$/;"	m
+install_sh	src/Makefile	/^install_sh = ${SHELL} \/root\/calib\/xinput_calibrator\/install-sh$/;"	m
+install_sh	src/calibrator/Makefile	/^install_sh = ${SHELL} \/root\/calib\/xinput_calibrator\/install-sh$/;"	m
+install_sh	src/gui/Makefile	/^install_sh = ${SHELL} \/root\/calib\/xinput_calibrator\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	man/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	scripts/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/calibrator/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_DATA	src/gui/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	man/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	scripts/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/calibrator/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_PROGRAM	src/gui/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	man/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	scripts/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/calibrator/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/gui/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+instance	src/gui/x11.cpp	/^GuiCalibratorX11* GuiCalibratorX11::instance = NULL;$/;"	m	class:GuiCalibratorX11	file:
+instance	src/gui/x11.hpp	/^    static GuiCalibratorX11* instance;$/;"	m	class:GuiCalibratorX11
+invert	src/calibrator.hh	/^    bool invert;$/;"	m	struct:AxisInfo
+is_sysfs_name	src/calibrator.cpp	/^bool Calibrator::is_sysfs_name(const char* name) {$/;"	f	class:Calibrator
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	man/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	scripts/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/calibrator/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libdir	src/gui/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	man/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	scripts/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/calibrator/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+libexecdir	src/gui/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	man/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	scripts/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/calibrator/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localedir	src/gui/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	man/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	scripts/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/calibrator/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+localstatedir	src/gui/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+main	src/main_gtkmm.cpp	/^int main(int argc, char** argv)$/;"	f
+main	src/main_x11.cpp	/^int main(int argc, char** argv)$/;"	f
+main	src/tester.cpp	/^int main() {$/;"	f
+make_calibrator	src/main_common.cpp	/^Calibrator* Calibrator::make_calibrator(int argc, char** argv)$/;"	f	class:Calibrator
+make_dummy_depfile	depcomp	/^make_dummy_depfile ()$/;"	f
+make_instance	src/gui/x11.cpp	/^void GuiCalibratorX11::make_instance(Calibrator* w)$/;"	f	class:GuiCalibratorX11
+man1dir	man/Makefile	/^man1dir = $(mandir)\/man1$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	man/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	scripts/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/calibrator/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mandir	src/gui/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+max	src/calibrator.hh	/^    int min, max;$/;"	m	struct:AxisInfo
+max_time	src/gui/gui_common.hpp	/^const int max_time = 15000; \/\/ in milliseconds, 5000 = 5 sec$/;"	v
+message	src/gui/gtkmm.hpp	/^    const char* message;$/;"	m	class:CalibrationArea
+min	src/calibrator.hh	/^    int min, max;$/;"	m	struct:AxisInfo
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	man/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	scripts/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	src/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	src/calibrator/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkdir_p	src/gui/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	man/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	scripts/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/calibrator/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mkinstalldirs	src/gui/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+modprobe_conf_local	src/calibrator/Usbtouchscreen.cpp	/^static const char *modprobe_conf_local = "\/etc\/modprobe.conf.local";$/;"	v	file:
+module_prefix	src/calibrator/Usbtouchscreen.cpp	/^static const char *module_prefix = "\/sys\/module\/usbtouchscreen\/parameters";$/;"	v	file:
+my_strdup	src/main_common.cpp	/^static char* my_strdup(const char* s) {$/;"	f	file:
+new_axis	src/calibrator/EvdevTester.hpp	/^    XYinfo new_axis;$/;"	m	class:CalibratorEvdevTester
+new_axis	src/calibrator/Tester.hpp	/^    XYinfo new_axis;$/;"	m	class:CalibratorTester
+new_axis_print	src/calibrator/EvdevTester.hpp	/^    virtual void new_axis_print() {$/;"	f	class:CalibratorEvdevTester
+new_axis_print	src/calibrator/Tester.hpp	/^    virtual void new_axis_print() {$/;"	f	class:CalibratorTester
+num	src/calibrator.hh	/^        int num;$/;"	m	struct:Calibrator::__anon2
+num_blocks	src/calibrator.hh	/^const int num_blocks = 8;$/;"	v
+old_axys	src/calibrator.hh	/^    XYinfo old_axys;$/;"	m	class:Calibrator
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	man/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	scripts/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/calibrator/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+oldincludedir	src/gui/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+on_button_press_event	src/gui/gtkmm.cpp	/^bool CalibrationArea::on_button_press_event(GdkEventButton *event)$/;"	f	class:CalibrationArea
+on_button_press_event	src/gui/x11.cpp	/^void GuiCalibratorX11::on_button_press_event(XEvent event)$/;"	f	class:GuiCalibratorX11
+on_expose_event	src/gui/gtkmm.cpp	/^bool CalibrationArea::on_expose_event(GdkEventExpose *event)$/;"	f	class:CalibrationArea
+on_expose_event	src/gui/x11.cpp	/^void GuiCalibratorX11::on_expose_event()$/;"	f	class:GuiCalibratorX11
+on_key_press_event	src/gui/gtkmm.cpp	/^bool CalibrationArea::on_key_press_event(GdkEventKey *event)$/;"	f	class:CalibrationArea
+on_timer_signal	src/gui/gtkmm.cpp	/^bool CalibrationArea::on_timer_signal()$/;"	f	class:CalibrationArea
+on_timer_signal	src/gui/x11.cpp	/^void GuiCalibratorX11::on_timer_signal()$/;"	f	class:GuiCalibratorX11
+output_filename	src/calibrator.hh	/^    const char* output_filename;$/;"	m	class:Calibrator
+output_hal	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::output_hal(const XYinfo new_axys)$/;"	f	class:CalibratorEvdev
+output_hal	src/calibrator/XorgPrint.cpp	/^bool CalibratorXorgPrint::output_hal(const XYinfo new_axys)$/;"	f	class:CalibratorXorgPrint
+output_type	src/calibrator.hh	/^    OutputType output_type;$/;"	m	class:Calibrator
+output_xinput	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::output_xinput(const XYinfo new_axys)$/;"	f	class:CalibratorEvdev
+output_xorgconfd	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::output_xorgconfd(const XYinfo new_axys)$/;"	f	class:CalibratorEvdev
+output_xorgconfd	src/calibrator/XorgPrint.cpp	/^bool CalibratorXorgPrint::output_xorgconfd(const XYinfo new_axys)$/;"	f	class:CalibratorXorgPrint
+p_flip_x	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_flip_x = "flip_x";$/;"	v	file:
+p_flip_y	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_flip_y = "flip_y";$/;"	v	file:
+p_max_x	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_max_x = "max_x";$/;"	v	file:
+p_max_y	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_max_y = "max_y";$/;"	v	file:
+p_min_x	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_min_x = "min_x";$/;"	v	file:
+p_min_y	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_min_y = "min_y";$/;"	v	file:
+p_range_x	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_range_x = "range_x";$/;"	v	file:
+p_range_y	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_range_y = "range_y";$/;"	v	file:
+p_swap_xy	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_swap_xy = "swap_xy";$/;"	v	file:
+p_transform_xy	src/calibrator/Usbtouchscreen.cpp	/^static const char *p_transform_xy = "transform_xy";$/;"	v	file:
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	man/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	scripts/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/calibrator/Makefile	/^pdfdir = ${docdir}$/;"	m
+pdfdir	src/gui/Makefile	/^pdfdir = ${docdir}$/;"	m
+pixel	src/gui/x11.hpp	/^    unsigned long pixel[NUM_COLORS];$/;"	m	class:GuiCalibratorX11
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/xinput_calibrator$/;"	m
+pkgdatadir	man/Makefile	/^pkgdatadir = $(datadir)\/xinput_calibrator$/;"	m
+pkgdatadir	scripts/Makefile	/^pkgdatadir = $(datadir)\/xinput_calibrator$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/xinput_calibrator$/;"	m
+pkgdatadir	src/calibrator/Makefile	/^pkgdatadir = $(datadir)\/xinput_calibrator$/;"	m
+pkgdatadir	src/gui/Makefile	/^pkgdatadir = $(datadir)\/xinput_calibrator$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/xinput_calibrator$/;"	m
+pkgincludedir	man/Makefile	/^pkgincludedir = $(includedir)\/xinput_calibrator$/;"	m
+pkgincludedir	scripts/Makefile	/^pkgincludedir = $(includedir)\/xinput_calibrator$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/xinput_calibrator$/;"	m
+pkgincludedir	src/calibrator/Makefile	/^pkgincludedir = $(includedir)\/xinput_calibrator$/;"	m
+pkgincludedir	src/gui/Makefile	/^pkgincludedir = $(includedir)\/xinput_calibrator$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/xinput_calibrator$/;"	m
+pkglibdir	man/Makefile	/^pkglibdir = $(libdir)\/xinput_calibrator$/;"	m
+pkglibdir	scripts/Makefile	/^pkglibdir = $(libdir)\/xinput_calibrator$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/xinput_calibrator$/;"	m
+pkglibdir	src/calibrator/Makefile	/^pkglibdir = $(libdir)\/xinput_calibrator$/;"	m
+pkglibdir	src/gui/Makefile	/^pkglibdir = $(libdir)\/xinput_calibrator$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/xinput_calibrator$/;"	m
+pkglibexecdir	man/Makefile	/^pkglibexecdir = $(libexecdir)\/xinput_calibrator$/;"	m
+pkglibexecdir	scripts/Makefile	/^pkglibexecdir = $(libexecdir)\/xinput_calibrator$/;"	m
+pkglibexecdir	src/Makefile	/^pkglibexecdir = $(libexecdir)\/xinput_calibrator$/;"	m
+pkglibexecdir	src/calibrator/Makefile	/^pkglibexecdir = $(libexecdir)\/xinput_calibrator$/;"	m
+pkglibexecdir	src/gui/Makefile	/^pkglibexecdir = $(libexecdir)\/xinput_calibrator$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	man/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	scripts/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/calibrator/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	src/gui/Makefile	/^prefix = \/usr\/local$/;"	m
+print	src/calibrator.hh	/^    void print(const char* xtra="\\n") {$/;"	f	struct:XYinfo
+program_details	missing	/^program_details ()$/;"	f
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	man/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	scripts/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/calibrator/Makefile	/^program_transform_name = s,x,x,$/;"	m
+program_transform_name	src/gui/Makefile	/^program_transform_name = s,x,x,$/;"	m
+prototypes	configure	/^   function prototypes and stuff, but not '\\xHH' hex character constants.$/;"	f
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+psdir	man/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	scripts/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/calibrator/Makefile	/^psdir = ${docdir}$/;"	m
+psdir	src/gui/Makefile	/^psdir = ${docdir}$/;"	m
+read_bool_parameter	src/calibrator/Usbtouchscreen.cpp	/^void CalibratorUsbtouchscreen::read_bool_parameter(const char *param, bool &value)$/;"	f	class:CalibratorUsbtouchscreen
+read_int_parameter	src/calibrator/Usbtouchscreen.cpp	/^void CalibratorUsbtouchscreen::read_int_parameter(const char *param, int &value)$/;"	f	class:CalibratorUsbtouchscreen
+redraw	src/gui/gtkmm.cpp	/^void CalibrationArea::redraw()$/;"	f	class:CalibrationArea
+redraw	src/gui/x11.cpp	/^void GuiCalibratorX11::redraw()$/;"	f	class:GuiCalibratorX11
+reset	src/calibrator.hh	/^    void reset()$/;"	f	class:Calibrator
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	man/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	scripts/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/calibrator/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sbindir	src/gui/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+scaleAxis	src/calibrator.cpp	/^scaleAxis(float Cx, int to_max, int to_min, int from_max, int from_min)$/;"	f
+screen_num	src/gui/x11.hpp	/^    int screen_num;$/;"	m	class:GuiCalibratorX11
+set_base_from	depcomp	/^set_base_from ()$/;"	f
+set_calibration	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::set_calibration(const XYinfo new_axys)$/;"	f	class:CalibratorEvdev
+set_dir_from	depcomp	/^set_dir_from ()$/;"	f
+set_display_size	src/gui/gtkmm.cpp	/^void CalibrationArea::set_display_size(int width, int height) {$/;"	f	class:CalibrationArea
+set_display_size	src/gui/x11.cpp	/^void GuiCalibratorX11::set_display_size(int width, int height) {$/;"	f	class:GuiCalibratorX11
+set_invert_xy	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::set_invert_xy(const int invert_x, const int invert_y)$/;"	f	class:CalibratorEvdev
+set_swapxy	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::set_swapxy(const int swap_xy)$/;"	f	class:CalibratorEvdev
+set_threshold_doubleclick	src/calibrator.hh	/^    void set_threshold_doubleclick(int t)$/;"	f	class:Calibrator
+set_threshold_misclick	src/calibrator.hh	/^    void set_threshold_misclick(int t)$/;"	f	class:Calibrator
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	man/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	scripts/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/calibrator/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sharedstatedir	src/gui/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sigalarm_handler	src/gui/x11.cpp	/^void sigalarm_handler(int num)$/;"	f
+srcdir	Makefile	/^srcdir = .$/;"	m
+srcdir	man/Makefile	/^srcdir = .$/;"	m
+srcdir	scripts/Makefile	/^srcdir = .$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+srcdir	src/calibrator/Makefile	/^srcdir = .$/;"	m
+srcdir	src/gui/Makefile	/^srcdir = .$/;"	m
+subdir	Makefile	/^subdir = .$/;"	m
+subdir	man/Makefile	/^subdir = man$/;"	m
+subdir	scripts/Makefile	/^subdir = scripts$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+subdir	src/calibrator/Makefile	/^subdir = src\/calibrator$/;"	m
+subdir	src/gui/Makefile	/^subdir = src\/gui$/;"	m
+swap_xy	src/calibrator.hh	/^    bool swap_xy;$/;"	m	struct:XYinfo
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	man/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	scripts/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/calibrator/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+sysconfdir	src/gui/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | BZIP2=$${BZIP2--9} bzip2 -c >$(distdir).tar.bz2$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | GZIP=$(GZIP_ENV) gzip -c >$(distdir).tar.gz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | XZ_OPT=$${XZ_OPT--e} xz -c >$(distdir).tar.xz$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | compress -c >$(distdir).tar.Z$/;"	m
+tardir	Makefile	/^	tardir=$(distdir) && $(am__tar) | lzip -c $${LZIP_OPT--9} >$(distdir).tar.lz$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_alias	man/Makefile	/^target_alias = $/;"	m
+target_alias	scripts/Makefile	/^target_alias = $/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_alias	src/calibrator/Makefile	/^target_alias = $/;"	m
+target_alias	src/gui/Makefile	/^target_alias = $/;"	m
+tester_CXXFLAGS	src/Makefile	/^tester_CXXFLAGS = $(XINPUT_CFLAGS) $(X11_CFLAGS) $(XRANDR_CFLAGS) $(AM_CXXFLAGS)$/;"	m
+tester_DEPENDENCIES	src/Makefile	/^tester_DEPENDENCIES = $(am__DEPENDENCIES_1) $(am__DEPENDENCIES_1) \\$/;"	m
+tester_LDADD	src/Makefile	/^tester_LDADD = $(XINPUT_LIBS) $(XRANDR_LIBS) $(X11_LIBS)$/;"	m
+tester_LINK	src/Makefile	/^tester_LINK = $(CXXLD) $(tester_CXXFLAGS) $(CXXFLAGS) $(AM_LDFLAGS) \\$/;"	m
+tester_OBJECTS	src/Makefile	/^tester_OBJECTS = $(am_tester_OBJECTS)$/;"	m
+tester_SOURCES	src/Makefile	/^tester_SOURCES = tester.cpp calibrator.cpp calibrator\/Tester.cpp calibrator\/Evdev.cpp calibrator\/EvdevTester.cpp$/;"	m
+threshold_doubleclick	src/calibrator.hh	/^    int threshold_doubleclick;$/;"	m	class:Calibrator
+threshold_misclick	src/calibrator.hh	/^    int threshold_misclick;$/;"	m	class:Calibrator
+time_elapsed	src/gui/gtkmm.hpp	/^    int time_elapsed;$/;"	m	class:CalibrationArea
+time_elapsed	src/gui/x11.hpp	/^    int time_elapsed;$/;"	m	class:GuiCalibratorX11
+time_step	src/gui/gui_common.hpp	/^const int time_step = 100;  \/\/ in milliseconds$/;"	v
+timer_fd	src/gui/x11.hpp	/^    int timer_fd;$/;"	m	class:GuiCalibratorX11
+top_build_prefix	Makefile	/^top_build_prefix = $/;"	m
+top_build_prefix	man/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	scripts/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/Makefile	/^top_build_prefix = ..\/$/;"	m
+top_build_prefix	src/calibrator/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_build_prefix	src/gui/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_builddir	man/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	scripts/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_builddir	src/calibrator/Makefile	/^top_builddir = ..\/..$/;"	m
+top_builddir	src/gui/Makefile	/^top_builddir = ..\/..$/;"	m
+top_distdir	Makefile	/^top_distdir = $(distdir)$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+top_srcdir	man/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	scripts/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+top_srcdir	src/calibrator/Makefile	/^top_srcdir = ..\/..$/;"	m
+top_srcdir	src/gui/Makefile	/^top_srcdir = ..\/..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	man/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	scripts/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/calibrator/Makefile	/^transform = $(program_transform_name)$/;"	m
+transform	src/gui/Makefile	/^transform = $(program_transform_name)$/;"	m
+usage	src/main_common.cpp	/^static void usage(char* cmd, unsigned thr_misclick)$/;"	f	file:
+use_timeout	src/calibrator.hh	/^    const bool use_timeout;$/;"	m	class:Calibrator
+util_DATA	scripts/Makefile	/^util_DATA = xinput_calibrator.desktop$/;"	m
+utildir	scripts/Makefile	/^utildir = $(datadir)\/applications$/;"	m
+val_flip_x	src/calibrator/Usbtouchscreen.hpp	/^    bool val_transform_xy, val_flip_x, val_flip_y, val_swap_xy;$/;"	m	class:CalibratorUsbtouchscreen
+val_flip_y	src/calibrator/Usbtouchscreen.hpp	/^    bool val_transform_xy, val_flip_x, val_flip_y, val_swap_xy;$/;"	m	class:CalibratorUsbtouchscreen
+val_swap_xy	src/calibrator/Usbtouchscreen.hpp	/^    bool val_transform_xy, val_flip_x, val_flip_y, val_swap_xy;$/;"	m	class:CalibratorUsbtouchscreen
+val_transform_xy	src/calibrator/Usbtouchscreen.hpp	/^    bool val_transform_xy, val_flip_x, val_flip_y, val_swap_xy;$/;"	m	class:CalibratorUsbtouchscreen
+verbose	src/calibrator.cpp	/^bool Calibrator::verbose = true;$/;"	m	class:Calibrator	file:
+verbose	src/calibrator.hh	/^    static bool verbose;$/;"	m	class:Calibrator
+win	src/gui/x11.hpp	/^    Window win;$/;"	m	class:GuiCalibratorX11
+write_bool_parameter	src/calibrator/Usbtouchscreen.cpp	/^void CalibratorUsbtouchscreen::write_bool_parameter(const char *param, const bool value)$/;"	f	class:CalibratorUsbtouchscreen
+write_int_parameter	src/calibrator/Usbtouchscreen.cpp	/^void CalibratorUsbtouchscreen::write_int_parameter(const char *param, const int value)$/;"	f	class:CalibratorUsbtouchscreen
+x	src/calibrator.hh	/^        std::vector<int> x, y;$/;"	m	struct:Calibrator::__anon2
+x	src/calibrator.hh	/^    AxisInfo x, y;$/;"	m	struct:XYinfo
+xf86ScaleAxis	src/calibrator.cpp	/^xf86ScaleAxis(int Cx, int to_max, int to_min, int from_max, int from_min)$/;"	f
+xinput_calibrator_CXXFLAGS	src/Makefile	/^xinput_calibrator_CXXFLAGS = $(XINPUT_CFLAGS) $(X11_CFLAGS) $(XRANDR_CFLAGS) $(AM_CXXFLAGS)$/;"	m
+xinput_calibrator_DEPENDENCIES	src/Makefile	/^xinput_calibrator_DEPENDENCIES =  \\$/;"	m
+xinput_calibrator_LDADD	src/Makefile	/^xinput_calibrator_LDADD = $(XINPUT_LIBS) $(XRANDR_LIBS) $(X11_LIBS)$/;"	m
+xinput_calibrator_LINK	src/Makefile	/^xinput_calibrator_LINK = $(CXXLD) $(xinput_calibrator_CXXFLAGS) \\$/;"	m
+xinput_calibrator_OBJECTS	src/Makefile	/^xinput_calibrator_OBJECTS = $(am_xinput_calibrator_OBJECTS)$/;"	m
+xinput_calibrator_SOURCES	src/Makefile	/^xinput_calibrator_SOURCES = gui\/x11.cpp main_x11.cpp $(COMMON_SRCS)$/;"	m
+xinput_do_set_int_prop	src/calibrator/Evdev.cpp	/^bool CalibratorEvdev::xinput_do_set_int_prop( const char * name,$/;"	f	class:CalibratorEvdev
+xinput_find_device_info	src/calibrator/Evdev.cpp	/^XDeviceInfo* CalibratorEvdev::xinput_find_device_info($/;"	f	class:CalibratorEvdev
+xinput_parse_atom	src/calibrator/Evdev.cpp	/^Atom CalibratorEvdev::xinput_parse_atom(Display *display, const char *name)$/;"	f	class:CalibratorEvdev
+y	src/calibrator.hh	/^        std::vector<int> x, y;$/;"	m	struct:Calibrator::__anon2
+y	src/calibrator.hh	/^    AxisInfo x, y;$/;"	m	struct:XYinfo
+yesno	src/calibrator/Usbtouchscreen.hpp	/^    char yesno(const bool value)$/;"	f	class:CalibratorUsbtouchscreen
+~Calibrator	src/calibrator.hh	/^    virtual ~Calibrator() {}$/;"	f	class:Calibrator
+~CalibratorEvdev	src/calibrator/Evdev.cpp	/^CalibratorEvdev::~CalibratorEvdev () {$/;"	f	class:CalibratorEvdev
+~CalibratorUsbtouchscreen	src/calibrator/Usbtouchscreen.cpp	/^CalibratorUsbtouchscreen::~CalibratorUsbtouchscreen()$/;"	f	class:CalibratorUsbtouchscreen
+~GuiCalibratorX11	src/gui/x11.cpp	/^GuiCalibratorX11::~GuiCalibratorX11()$/;"	f	class:GuiCalibratorX11

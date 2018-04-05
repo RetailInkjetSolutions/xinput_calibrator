@@ -32,7 +32,7 @@
 #include "calibrator.hh"
 
 // static instances
-bool Calibrator::verbose = false;
+bool Calibrator::verbose = true;
 const char* Calibrator::SYSFS_INPUT="/sys/class/input";
 const char* Calibrator::SYSFS_DEVNAME="device/name";
 

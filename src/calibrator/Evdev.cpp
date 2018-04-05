@@ -201,6 +201,7 @@ bool CalibratorEvdev::finish(int width, int height)
     // it performs the following *crazy* code just before returning
     // val = (pEvdev->absinfo[i].maximum - val + pEvdev->absinfo[i].minimum);
     // undo this crazy step before doing the regular calibration routine
+   
     if (old_axys.x.invert) {
         x_min = width - x_min;
         x_max = width - x_max;
@@ -215,8 +216,19 @@ bool CalibratorEvdev::finish(int width, int height)
         // the calibration code can handle this dynamically!
         new_axis.y.invert = false;
     }
+    
     // end of evdev inversion crazyness
+    
+    // detect lopsided values in the case of a wonky egalax touchscreen?
+    if ((x_min > x_max) && new_axis.x.invert == false) {
+        printf("\nSwapping lopsided X values: %d <-> %d\n", round(x_min), round(x_max));
+        std::swap(x_min, x_max);
+    }    
 
+    if ((y_min > y_max) && new_axis.y.invert == false) {
+        printf("\nSwapping lopsided Y values: %d <-> %d\n", round(y_min), round(y_max));
+        std::swap(y_min, y_max);
+    }
 
     // Should x and y be swapped?
     if (abs(clicked.x[UL] - clicked.x[UR]) < abs(clicked.y[UL] - clicked.y[UR])) {
@@ -268,14 +280,19 @@ bool CalibratorEvdev::finish_data(const XYinfo &new_axys)
         success &= set_swapxy(new_axys.swap_xy);
     }
 
+
    // Evdev Axis Inversion
    if (old_axys.x.invert != new_axys.x.invert ||
        old_axys.y.invert != new_axys.y.invert) {
         success &= set_invert_xy(new_axys.x.invert, new_axys.y.invert);
     }
 
+    printf("\nSettings just sent: swapxy=%d invertx=%d inverty=%d\n", new_axys.swap_xy, new_axys.x.invert, new_axys.y.invert);
+
     // Evdev Axis Calibration
     success &= set_calibration(new_axys);
+
+
 
     // close
     XSync(display, False);
