@@ -219,17 +219,6 @@ bool CalibratorEvdev::finish(int width, int height)
     
     // end of evdev inversion crazyness
     
-    // detect lopsided values in the case of a wonky egalax touchscreen?
-    if ((x_min > x_max) && new_axis.x.invert == false) {
-        printf("\nSwapping lopsided X values: %d <-> %d\n", round(x_min), round(x_max));
-        std::swap(x_min, x_max);
-    }    
-
-    if ((y_min > y_max) && new_axis.y.invert == false) {
-        printf("\nSwapping lopsided Y values: %d <-> %d\n", round(y_min), round(y_max));
-        std::swap(y_min, y_max);
-    }
-
     // Should x and y be swapped?
     if (abs(clicked.x[UL] - clicked.x[UR]) < abs(clicked.y[UL] - clicked.y[UR])) {
         new_axis.swap_xy = !new_axis.swap_xy;
@@ -292,7 +281,20 @@ bool CalibratorEvdev::finish_data(const XYinfo &new_axys)
     // Evdev Axis Calibration
     success &= set_calibration(new_axys);
 
+    // for some reason set_calibration() accepts lopsided axis data but when written to disk it screws up calibration when read
+    // so correct for that after sending calibration to xinput but before rendering output file
+    // Symptom: calibration is correct but Y values are written inverted on restart for some eGalax USB Touchscreens
+    XYinfo mod_axys(new_axys);
+    if ((mod_axys.x.min > mod_axys.x.max) && (mod_axys.x.invert == false)) {
+        printf("\nRISMOD: Swapping lopsided X in mod_axys....\n");
+        std::swap(mod_axys.x.min, mod_axys.x.max);
+    }
 
+    if ((mod_axys.y.min > mod_axys.y.max) && (mod_axys.y.invert == false)) {
+        printf("\nRISMOD: Swapping lopsided Y in mod_args...\n");
+        std::swap(mod_axys.y.min, mod_axys.y.max);
+    }
+    // end set_calibration() hackery
 
     // close
     XSync(display, False);
@@ -302,19 +304,19 @@ bool CalibratorEvdev::finish_data(const XYinfo &new_axys)
         case OUTYPE_AUTO:
             // xorg.conf.d or alternatively xinput commands
             if (has_xorgconfd_support()) {
-                success &= output_xorgconfd(new_axys);
+                success &= output_xorgconfd(mod_axys);
             } else {
-                success &= output_xinput(new_axys);
+                success &= output_xinput(mod_axys);
             }
             break;
         case OUTYPE_XORGCONFD:
-            success &= output_xorgconfd(new_axys);
+            success &= output_xorgconfd(mod_axys);
             break;
         case OUTYPE_HAL:
-            success &= output_hal(new_axys);
+            success &= output_hal(mod_axys);
             break;
         case OUTYPE_XINPUT:
-            success &= output_xinput(new_axys);
+            success &= output_xinput(mod_axys);
             break;
         default:
             fprintf(stderr, "ERROR: Evdev Calibrator does not support the supplied --output-type\n");
