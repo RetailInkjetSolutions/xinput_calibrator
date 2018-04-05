@@ -1,4 +1,3 @@
-#
 # Copyright (c) 2010 Petr Stetiar <ynezz@true.cz>
 # Copyright (c) 2010 Tias Guns <tias@ulyssis.org>
 #
@@ -33,16 +32,19 @@ AM_CXXFLAGS = -Wall -ansi -pedantic
 bin_PROGRAMS = xinput_calibrator tester
 
 COMMON_SRCS=calibrator.cpp calibrator/XorgPrint.cpp calibrator/Evdev.cpp calibrator/Usbtouchscreen.cpp main_common.cpp gui/gui_common.cpp
+include_HEADERS=calibrator.hh calibrator/XorgPrint.hpp calibrator/Evdev.cpp calibrator/Usbtouchscreen.hpp
 
 # only one of the BUILD_ flags should be set
 if BUILD_X11
 xinput_calibrator_SOURCES = gui/x11.cpp main_x11.cpp $(COMMON_SRCS)
+include_HEADERS = gui/x11.hpp gui/gui_common.hpp calibrator/XorgPrint.hpp calibrator/Evdev.cpp calibrator/Usbtouchscreen.hpp
 xinput_calibrator_LDADD = $(XINPUT_LIBS) $(XRANDR_LIBS) $(X11_LIBS)
 xinput_calibrator_CXXFLAGS = $(XINPUT_CFLAGS) $(X11_CFLAGS) $(XRANDR_CFLAGS) $(AM_CXXFLAGS)
 endif
 
 if BUILD_GTKMM
 xinput_calibrator_SOURCES = gui/gtkmm.cpp main_gtkmm.cpp $(COMMON_SRCS)
+include_HEADERS = gui/gtkmm.hpp
 xinput_calibrator_LDADD = $(XINPUT_LIBS) $(GTKMM_LIBS)
 xinput_calibrator_CXXFLAGS = $(XINPUT_CFLAGS) $(GTKMM_CFLAGS) $(AM_CXXFLAGS)
 
@@ -52,6 +54,7 @@ xinput_calibrator_LDFLAGS = -Wl,--as-needed
 endif
 
 tester_SOURCES = tester.cpp calibrator.cpp calibrator/Tester.cpp calibrator/Evdev.cpp calibrator/EvdevTester.cpp
+include_HEADERS = calibrator.hh calibrator/Tester.hpp calibrator/Evdev.hpp calibrator/EvdevTester.hpp
 tester_LDADD = $(XINPUT_LIBS) $(XRANDR_LIBS) $(X11_LIBS)
 tester_CXXFLAGS = $(XINPUT_CFLAGS) $(X11_CFLAGS) $(XRANDR_CFLAGS) $(AM_CXXFLAGS)
 

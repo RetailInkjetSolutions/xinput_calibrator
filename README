@@ -12,13 +12,9 @@ Bugs:    http://github.com/lyjia/xinput_calibrator/issues
 
 Build instructions:
 -------------------
-./autogen.sh
-    Sets up build environment, run ./autogen.sh --help to see the build options
-    Notable build options:
-    --with-gui=gtkmm        Use gtkmm GUI
-    --with-gui=x11          Use native x11 GUI
-make
-    Builds the software with the configured GUI
+./autogen.sh --with-gui=x11 (runs configure)
+make (builds binary)
+make dist (builds source tar.gz)
 
 Usage:
 ------
