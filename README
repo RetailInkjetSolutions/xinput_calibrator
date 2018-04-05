@@ -4,8 +4,10 @@ This version is a fork of xinput_calibrator 0.7.5 with a bugfix for supporting c
 
 Version: 0.7.5-rismod
 Website: http://www.freedesktop.org/wiki/Software/xinput_calibrator
-Source:  http://github.com/tias/xinput_calibrator
-Bugs:    http://github.com/tias/xinput_calibrator/issues
+Source:  http://github.com/lyjia/xinput_calibrator
+         http://github.com/tias/xinput_calibrator (upstream)
+Bugs:    http://github.com/lyjia/xinput_calibrator/issues
+         http://github.com/tias/xinput_calibrator (upstream)
 
 
 Build instructions:
