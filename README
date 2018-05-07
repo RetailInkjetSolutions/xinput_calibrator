@@ -1,6 +1,6 @@
 xinput calibrator: A generic touchscreen calibration program for X.Org
 
-This version is a fork of xinput_calibrator 0.7.5 with a bugfix for supporting certain model eGalax USB touchscreens.
+This version is a fork of xinput_calibrator 0.7.5 with a bugfix that better supports non-HID eGalax USB touchscreens.
 
 Version: 0.7.5-rismod
 Website: http://www.freedesktop.org/wiki/Software/xinput_calibrator
